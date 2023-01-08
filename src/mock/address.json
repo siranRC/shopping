@@ -1,0 +1,14 @@
+[{
+    "fullAddress" : "河南",
+    "consignee" : "小明",
+    "phoneNum" : "15839382933",
+    "id" : 12,
+    "isDefault" : "1"
+},
+{
+    "fullAddress" : "上海",
+    "consignee" : "小红",
+    "phoneNum" : "15935637729",
+    "id" : 13,
+    "isDefault" : "0"
+}]
